@@ -1,2 +1,3 @@
-# 06-homework-Lede
+# My First Crash Course in Pandas
 
+## Emphasis on crash 
